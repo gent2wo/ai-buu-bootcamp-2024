@@ -22,7 +22,7 @@ ACCESS_TOKEN = "example"
 CHANNEL_SECRET = "example"
 
 # ข้อมูล Gemini api key
-GEMINI_API_KEY = "example"
+GEMINI_API_KEY = "AIzaSyBDrrxm4FshFMxYKqMN4o0gytdUI6d_GOk"
 
 # การเชื่อมต่อ และตั้งค่าข้อมูลเพื่อเรียกใช้งาน LINE Messaging API
 configuration = Configuration(access_token=ACCESS_TOKEN)
